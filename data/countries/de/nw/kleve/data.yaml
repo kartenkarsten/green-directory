@@ -165,3 +165,17 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-weeze.de/
+---
+city: Kerken
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kerken.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekerken
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekerken/
