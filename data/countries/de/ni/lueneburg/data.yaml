@@ -21,6 +21,8 @@ city: Scharnebeck/Adendorf
 urls:
   - type: WEBSITE
     url: https://gruene-lueneburg.de/home/ortsverbaende/scharnebeckadendorf/
+  - type: WEBSITE
+    url: https://gruene-adendorf-scharnebeck.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
